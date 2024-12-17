@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 🙋‍♀️ [@marijosebi](https://www.linkedin.com/in/mariajoseborjon/))
+# 🙋‍♀️ [@marijosebi](https://www.linkedin.com/in/mariajoseborjon/)
 
 <!--
 **marijosebi/marijosebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
