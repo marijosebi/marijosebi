@@ -1,4 +1,5 @@
 ## Hi there 👋
+# 🙋‍♀️ [@marijosebi](https://www.linkedin.com/in/mariajoseborjon/))
 
 <!--
 **marijosebi/marijosebi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<li><b>👤 Name:  </b> María José Borjón Ibarra </li>
+<li><b>📍 Location:  </b> Mexico 🇲🇽 </li>
+<li><b>📣 Languages: </b>  English & Spanish </li>
